@@ -71,17 +71,6 @@ namespace Applicazione_1.Controllers
             if (user.Password == "password"&& (user.Role == "admin" || user.Role == "employee" || user.Role == "client"))
             {
                 var token = _jwt.GenerateJwtToken(user.UserName,user.Role);
-                int size = 26;
-
-                for (int i = 0; i < size; i++) // Rows
-                {
-                    for (int j = 0; j < size; j++) // Columns
-
-                            Console.Write("* ");
-
-                    
-                    Console.WriteLine(); // New line after each row
-                }
                 return Ok(token);
             }
             return Unauthorized();

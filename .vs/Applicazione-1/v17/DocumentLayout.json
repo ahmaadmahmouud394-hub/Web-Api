@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\",
+  "WorkspaceRootPath": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\services\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\services\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\services\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\extentionmethods\\configurationextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\extentionmethods\\configurationextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\extentionmethods\\configurationextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\aabdelkar\\source\\repos\\applicazione-1\\applicazione-1\\settings\\documentstoragesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|c:\\users\\bhanna\\source\\repos\\web-api\\applicazione-1\\settings\\documentstoragesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66226405-F798-4BC5-85D8-3CE11C95B1A6}|Applicazione-1\\Applicazione-1.csproj|solutionrelative:applicazione-1\\settings\\documentstoragesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 254,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,16 +57,12 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EmailValidation.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Services\\EmailValidation.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Services\\EmailValidation.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Services\\EmailValidation.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Services\\EmailValidation.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Services\\EmailValidation.cs",
               "RelativeToolTip": "Applicazione-1\\Services\\EmailValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Models\\User.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Models\\User.cs",
               "RelativeToolTip": "Applicazione-1\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "JWT.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Services\\JWT.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Services\\JWT.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Services\\JWT.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Services\\JWT.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Services\\JWT.cs",
               "RelativeToolTip": "Applicazione-1\\Services\\JWT.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RequestLoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeToolTip": "Applicazione-1\\Middleware\\RequestLoggingMiddleware.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAEwDQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ConfigurationExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
               "RelativeToolTip": "Applicazione-1\\ExtentionMethods\\ConfigurationExtentions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Program.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Program.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Program.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Program.cs",
               "RelativeToolTip": "Applicazione-1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +132,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "DocumentStorageSettings.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Settings\\DocumentStorageSettings.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Settings\\DocumentStorageSettings.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Settings\\DocumentStorageSettings.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Settings\\DocumentStorageSettings.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Settings\\DocumentStorageSettings.cs",
               "RelativeToolTip": "Applicazione-1\\Settings\\DocumentStorageSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +144,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Controllers\\TestController.cs",
+              "DocumentMoniker": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Applicazione-1\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\bhanna\\source\\repos\\Web-Api\\Applicazione-1\\Controllers\\TestController.cs",
               "RelativeToolTip": "Applicazione-1\\Controllers\\TestController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswFEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T10:21:49.893Z",
               "EditorCaption": ""

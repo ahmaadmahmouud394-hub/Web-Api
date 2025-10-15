@@ -616,23 +616,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aabdelkar\\.nuget\\packages\\": {},
+    "C:\\Users\\bhanna\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Applicazione-1.csproj",
+      "projectUniqueName": "C:\\Users\\bhanna\\Source\\Repos\\Web-Api\\Applicazione-1\\Applicazione-1.csproj",
       "projectName": "Applicazione-1",
-      "projectPath": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\Applicazione-1.csproj",
-      "packagesPath": "C:\\Users\\aabdelkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aabdelkar\\source\\repos\\Applicazione-1\\Applicazione-1\\obj\\",
+      "projectPath": "C:\\Users\\bhanna\\Source\\Repos\\Web-Api\\Applicazione-1\\Applicazione-1.csproj",
+      "packagesPath": "C:\\Users\\bhanna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bhanna\\Source\\Repos\\Web-Api\\Applicazione-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aabdelkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bhanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -701,7 +701,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

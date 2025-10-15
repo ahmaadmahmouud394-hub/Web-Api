@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Applicazione_1.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "api/Test/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Applicazione_1.Controllers.TestController",
+    "Method": "Login",
+    "RelativePath": "api/Test/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

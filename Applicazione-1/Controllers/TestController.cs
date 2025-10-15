@@ -76,16 +76,10 @@ namespace Applicazione_1.Controllers
                 for (int i = 0; i < size; i++) // Rows
                 {
                     for (int j = 0; j < size; j++) // Columns
-                    {if (j == 12 && i == 12) 
-                        { Console.WriteLine("b7bk"); }
-                        if (j == 12 && i == 13)
-                        { Console.WriteLine(""); }
-                        if (j == 12 && i == 14) { Console.WriteLine(""); }
-                        else
-                        {
+
                             Console.Write("* ");
-                        }
-                    }
+
+                    
                     Console.WriteLine(); // New line after each row
                 }
                 return Ok(token);
